@@ -15,4 +15,4 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a useful title.
 
-Thank you for your suggestions!
+Thank you for your suggestions!!!
